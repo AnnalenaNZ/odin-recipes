@@ -1,0 +1,1 @@
+In this project I will learn how to creat a basic site using html. This will be a receipe and I learn how to add text and images
